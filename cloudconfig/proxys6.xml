@@ -155,6 +155,21 @@
   <vip>0</vip>
  </Element> 
  
+ <Element>
+  <tag>FR</tag>
+  <country>France</country>
+  <city>Paris</city>
+  <image>flags/France.png</image>
+  <strength>96</strength> 
+  <ip>107.191.62.55</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element> 
+ 
    <Element>
   <tag>IT</tag>
   <country>Italy</country>
