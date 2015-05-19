@@ -139,6 +139,21 @@
   <vip>0</vip>
  </Element>
  
+ <Element>
+  <tag>DE</tag>
+  <country>Germany</country>
+  <city>Frankfurt</city>
+  <image>flags/Germany.png</image>
+  <strength>95</strength>
+  <ip>5.175.148.49</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>  
+ 
   <Element>
   <tag>DE</tag>
   <country>Germany</country>
