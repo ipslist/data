@@ -397,12 +397,12 @@
   <city>Stockholm</city>
   <image>flags/Sweden.png</image>
   <strength>94</strength> 
-  <ip>46.246.93.90</ip>
+  <ip>178.73.210.11</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
-  <hide>1</hide>
+  <hide>0</hide>
   <vip>0</vip>
   </Element> 
   
