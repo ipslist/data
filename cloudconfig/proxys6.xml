@@ -219,12 +219,12 @@
   <city>Milano</city>
   <image>flags/Italy.png</image>
   <strength>95</strength>
-  <ip>151.236.18.84</ip>
+  <ip>149.154.157.19</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
+  <hide>0</hide>
   <vip>0</vip>
  </Element> 
 
