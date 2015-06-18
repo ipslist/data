@@ -329,7 +329,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>0</vip>  
  </Element> 
  
@@ -466,7 +466,22 @@
   <vip>0</vip>
  </Element>  
  
-   <Element>
+ <Element>
+  <tag>UA</tag>
+  <country>Ukraine</country>
+  <city>Kiev</city>
+  <image>flags/Ukraine.png</image>
+  <strength>96</strength> 
+  <ip>91.239.232.142</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element>
+ 
+  <Element>
   <tag>UK</tag>
   <country>United Kingdom</country>
   <city>London</city>
