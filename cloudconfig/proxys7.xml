@@ -43,8 +43,6 @@
   <vip>0</vip>
  </Element>  
  
-
- 
   <Element>
   <tag>CA</tag>
   <country>Canada</country>
@@ -75,7 +73,6 @@
   <vip>0</vip>
  </Element>
  
-
   <Element>
   <tag>CH</tag>
   <country>Switzerland</country>
@@ -121,7 +118,6 @@
   <vip>0</vip>
  </Element>  
 
- 
    <Element>
   <tag>CL</tag>
   <country>Chile</country>
@@ -314,9 +310,6 @@
   <hide>1</hide>
   <vip>0</vip>  
  </Element> 
- 
- 
- 
  
    <Element>
   <tag>NL</tag>
