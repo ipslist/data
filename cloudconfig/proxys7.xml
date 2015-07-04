@@ -94,12 +94,12 @@
   <city>Zurich</city>
   <image>flags/Swaziland.png</image>
   <strength>98</strength> 
-  <ip>178.209.51.51</ip>
+  <ip>178.209.50.155</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
+  <hide>0</hide>
   <vip>0</vip>
  </Element>
  
