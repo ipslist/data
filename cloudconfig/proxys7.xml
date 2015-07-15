@@ -341,6 +341,21 @@
   <vip>0</vip>  
  </Element> 
  
+ <Element>
+  <tag>Ltu</tag>
+  <country>Lithuania</country>
+  <city>Voruta</city>
+  <image>flags/Lithuania.png</image>
+  <strength>95</strength>
+  <ip>194.135.85.47</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
    <Element>
   <tag>NL</tag>
   <country>Netherlands</country>
