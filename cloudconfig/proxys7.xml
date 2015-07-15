@@ -359,31 +359,31 @@
     <Element>
   <tag>NL</tag>
   <country>Netherlands</country>
-  <city>Amsterdam</city>
+  <city>Naaldwijk</city>
   <image>flags/Netherlands.png</image>
   <strength>97</strength>
-  <ip>151.236.14.57</ip>
+  <ip>198.105.117.73</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
+  <hide>0</hide>
   <vip>0</vip>  
  </Element> 
  
    <Element>
   <tag>NL</tag>
   <country>Netherlands</country>
-  <city>Amsterdam</city>
+  <city>Naaldwijk</city>
   <image>flags/Netherlands.png</image>
   <strength>97</strength>
-  <ip>151.236.14.91</ip>
+  <ip>198.105.117.74</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>1</vip>  
+  <hide>0</hide>
+  <vip>0</vip>  
  </Element>  
  
   <Element>
