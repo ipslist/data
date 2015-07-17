@@ -43,21 +43,6 @@
   <hide>0</hide>
  </Element>
 
-  <Element>
-  <tag>CA</tag>
-  <country>Canada</country>
-  <city>Hamilton</city>
-  <image>flags/Canada.png</image>
-  <strength>98</strength> 
-  <ip>74.82.196.198</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>0</vip>
- </Element>
- 
  <Element>
   <tag>BG</tag>
   <country>Bulgaria</country>
@@ -102,37 +87,7 @@
   <hide>0</hide>
   <vip>0</vip>
  </Element>  
- 
- <Element>
-  <tag>CH</tag>
-  <country>Switzerland</country>
-  <city>Zurich</city>
-  <image>flags/Swaziland.png</image>
-  <strength>98</strength> 
-  <ip>178.209.50.155</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>0</vip>
- </Element>
- 
-  <Element>
-  <tag>CH</tag>
-  <country>Switzerland</country>
-  <city>Zurich</city>
-  <image>flags/Swaziland.png</image>
-  <strength>98</strength> 
-  <ip>178.209.51.113</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>0</vip>
- </Element>  
-
+  
    <Element>
   <tag>CL</tag>
   <country>Chile</country>
@@ -160,21 +115,6 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>0</vip>
- </Element>
- 
-  <Element>
-  <tag>DE</tag>
-  <country>Germany</country>
-  <city>Frankfurt</city>
-  <image>flags/Germany.png</image>
-  <strength>95</strength> 
-  <ip>158.255.214.121</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>1</hide>
   <vip>0</vip>
  </Element>
  
@@ -268,36 +208,7 @@
   <hide>0</hide>
   <vip>1</vip>
  </Element>  
- 
-   <Element>
-  <tag>IT</tag>
-  <country>Italy</country>
-  <city>Milano</city>
-  <image>flags/Italy.png</image>
-  <strength>95</strength>
-  <ip>151.236.18.48</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>1</vip>
- </Element>  
- <Element>
-  <tag>IT</tag>
-  <country>Italy</country>
-  <city>Florence Province</city>
-  <image>flags/Italy.png</image>
-  <strength>95</strength>
-  <ip>46.252.151.104</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>0</vip>
- </Element>
- 
+  
   <Element>
   <tag>IS</tag>
   <country>Iceland</country>
@@ -313,7 +224,7 @@
   <vip>0</vip>
  </Element>
  
-    <Element>
+  <Element>
   <tag>JP</tag>
   <country>Japan</country>
   <city>Tokyo</city>
@@ -337,7 +248,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>0</vip>  
  </Element> 
  
@@ -374,21 +285,6 @@
  <Element>
   <tag>NL</tag>
   <country>Netherlands</country>
-  <city>Amsterdam</city>
-  <image>flags/Netherlands.png</image>
-  <strength>97</strength>
-  <ip>109.120.176.46</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>0</vip>  
- </Element> 
- 
-    <Element>
-  <tag>NL</tag>
-  <country>Netherlands</country>
   <city>Naaldwijk</city>
   <image>flags/Netherlands.png</image>
   <strength>97</strength>
@@ -401,7 +297,7 @@
   <vip>0</vip>  
  </Element> 
  
-   <Element>
+ <Element>
   <tag>NL</tag>
   <country>Netherlands</country>
   <city>Naaldwijk</city>
@@ -415,23 +311,8 @@
   <hide>0</hide>
   <vip>1</vip>  
  </Element>  
- 
-  <Element>
-  <tag>PT</tag>
-  <country>Portugal</country>
-  <city>Leiria</city>
-  <image>flags/Portugal.png</image>
-  <strength>94</strength>
-  <ip>81.92.217.175</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>1</hide>
-  <vip>0</vip>  
- </Element> 
- 
-   <Element>
+
+ <Element>
   <tag>RU</tag>
   <country>Russia</country>
   <city>Moscow</city>
@@ -443,7 +324,7 @@
   <pass>1</pass>
   <protocol>private</protocol>
   <hide>0</hide>
-  <vip>0</vip>
+  <vip>1</vip>
  </Element> 
  
   <Element>
@@ -548,7 +429,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>1</vip>
+  <vip>0</vip>
  </Element>
  
   <Element>
@@ -578,26 +459,10 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>0</vip> 
+  <vip>1</vip> 
  </Element>
  
-    <Element>
-  <tag>UK</tag>
-  <country>United Kingdom</country>
-  <city>Maidenhead</city>
-  <image>flags/United Kingdom.png</image>
-  <strength>96</strength> 
-  <ip>46.17.63.201</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>0</vip>   
- </Element>
- 
- 
-    <Element>
+ <Element>
   <tag>US</tag>
   <country>United States</country>
   <city>San Francisco</city>
@@ -612,7 +477,7 @@
   <vip>0</vip>
  </Element>
  
-    <Element>
+ <Element>
   <tag>US</tag>
   <country>United States</country>
   <city>New York</city>
@@ -627,7 +492,7 @@
   <vip>0</vip>
  </Element>
  
-     <Element>
+ <Element>
   <tag>US</tag>
   <country>United States</country>
   <city>New York</city>
@@ -642,7 +507,7 @@
   <vip>0</vip>
  </Element>
  
-     <Element>
+ <Element>
   <tag>US</tag>
   <country>United States</country>
   <city>Amsterdam</city>
@@ -657,24 +522,7 @@
   <vip>0</vip>
  </Element>
  
- 
-     <Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>Seattle</city>
-  <image>flags/United States.png</image>
-  <strength>98</strength>
-  <ip>107.191.106.7</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>0</vip>
- </Element>  
- 
- 
-    <Element>
+ <Element>
   <tag>US</tag>
   <country>United States</country>
   <city>Seattle</city>
@@ -686,10 +534,10 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>1</vip>
+  <vip>0</vip>
  </Element>  
  
-    <Element>
+ <Element>
   <tag>US</tag>
   <country>United States</country>
   <city>Atlanta</city>
@@ -703,21 +551,6 @@
   <hide>0</hide>
   <vip>1</vip>
  </Element> 
- 
-    <Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>Absecon</city>
-  <image>flags/United States.png</image>
-  <strength>98</strength>
-  <ip>23.239.16.73</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>0</vip>
- </Element>  
  
  <Element>
   <tag>US</tag>
@@ -733,6 +566,7 @@
   <hide>0</hide>
   <vip>0</vip>
  </Element> 
+ 
  <Element>
   <tag>US</tag>
   <country>United States</country>
