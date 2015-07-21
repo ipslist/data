@@ -119,6 +119,21 @@
  </Element>
  
  <Element>
+  <tag>CR</tag>
+  <country>Czech Republic</country>
+  <city>Prague</city>
+  <image>flags/Czech_Republic.png</image>
+  <strength>98</strength> 
+  <ip>46.36.36.94</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+ <Element>
   <tag>DE</tag>
   <country>Germany</country>
   <city>Frankfurt</city>
