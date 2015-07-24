@@ -378,7 +378,7 @@
   <city>Stockholm</city>
   <image>flags/Sweden.png</image>
   <strength>94</strength> 
-  <ip>178.73.210.11</ip>
+  <ip>178.73.210.162</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -399,7 +399,7 @@
   <pass>1</pass>
   <protocol>private</protocol>
   <hide>0</hide>
-  <vip>1</vip>  
+  <vip>0</vip>  
  </Element> 
  
   <Element>
