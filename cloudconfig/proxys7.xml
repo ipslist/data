@@ -1,6 +1,36 @@
 <Array>
 
-  <Element>
+ <Element>
+  <tag>BG</tag>
+  <country>Bulgaria</country>
+  <city>Sofia</city>
+  <image>flags/Bulgaria.png</image>
+  <strength>95</strength>
+  <ip>78.142.18.100</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+ <Element>
+  <tag>BR</tag>
+  <country>Brazil</country>
+  <city>Paulo</city>
+  <image>flags/Brazil.png</image>
+  <strength>95</strength>
+  <ip>181.41.197.199</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+ <Element>
   <tag>CA</tag>
   <country>Canada</country>
   <city>Montreal</city>
@@ -41,36 +71,6 @@
   <protocol>private</protocol> 
   <hide>1</hide>
   <vip>1</vip>
- </Element>
-
- <Element>
-  <tag>BG</tag>
-  <country>Bulgaria</country>
-  <city>Sofia</city>
-  <image>flags/Bulgaria.png</image>
-  <strength>95</strength>
-  <ip>78.142.18.100</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>0</vip>
- </Element>
- 
- <Element>
-  <tag>BR</tag>
-  <country>Brazil</country>
-  <city>Paulo</city>
-  <image>flags/Brazil.png</image>
-  <strength>95</strength>
-  <ip>181.41.197.199</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>0</vip>
  </Element>
  
   <Element>
