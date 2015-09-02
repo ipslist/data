@@ -1,5 +1,20 @@
 <Array>
 
+<Element>
+  <tag>AUS</tag>
+  <country>Australia</country>
+  <city>Adelaide</city>
+  <image>flags/Australia.png</image>
+  <strength>97</strength> 
+  <ip>103.25.56.208</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>1</vip>
+  <hide>0</hide>
+ </Element>
+ 
  <Element>
   <tag>AUS</tag>
   <country>Australia</country>
