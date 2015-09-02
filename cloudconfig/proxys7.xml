@@ -1,6 +1,21 @@
 <Array>
 
  <Element>
+  <tag>AUS</tag>
+  <country>Australia</country>
+  <city>Sydney</city>
+  <image>flags/Australia.png</image>
+  <strength>97</strength> 
+  <ip>38.69.224.183</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>1</vip>
+  <hide>0</hide>
+ </Element>
+ 
+ <Element>
   <tag>BG</tag>
   <country>Bulgaria</country>
   <city>Sofia</city>
