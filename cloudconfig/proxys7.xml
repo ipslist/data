@@ -358,6 +358,23 @@
  </Element>
  
  <Element>
+  <tag>MU</tag>
+  <country>Mauritius</country>
+  <city>Mauritius</city>
+  <image>flags/Mauritius.png</image>
+  <strength>97</strength> 
+  <ip>154.127.60.251</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>1</vip>
+  <hide>0</hide>
+ </Element>
+ 
+</Array>
+ 
+ <Element>
   <tag>NL</tag>
   <country>Netherlands</country>
   <city>Naaldwijk</city>
