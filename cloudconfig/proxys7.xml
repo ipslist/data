@@ -12,7 +12,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <vip>0</vip>
-  <hide>0</hide>
+  <hide>1</hide>
  </Element>
  
  <Element>
@@ -253,23 +253,8 @@
   <hide>0</hide>
   <vip>0</vip>
  </Element> 
-
- <Element>
-  <tag>IT</tag>
-  <country>Italy</country>
-  <city>Agrigento</city>
-  <image>flags/Italy.png</image>
-  <strength>95</strength>
-  <ip>46.252.151.104</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>0</vip>
- </Element>
  
-   <Element>
+  <Element>
   <tag>IT</tag>
   <country>Italy</country>
   <city>Agrigento</city>
