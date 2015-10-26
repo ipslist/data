@@ -1,35 +1,5 @@
 <Array>
 
-<Element>
-  <tag>AUS</tag>
-  <country>Australia</country>
-  <city>Adelaide</city>
-  <image>flags/Australia.png</image>
-  <strength>97</strength> 
-  <ip>103.25.56.208</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <vip>0</vip>
-  <hide>1</hide>
- </Element>
- 
- <Element>
-  <tag>AUS</tag>
-  <country>Australia</country>
-  <city>Sydney</city>
-  <image>flags/Australia.png</image>
-  <strength>97</strength> 
-  <ip>38.69.224.183</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <vip>1</vip>
-  <hide>1</hide>
- </Element>
- 
  <Element>
   <tag>BG</tag>
   <country>Bulgaria</country>
@@ -67,6 +37,20 @@
   <image>flags/Canada.png</image>
   <strength>97</strength> 
   <ip>158.69.137.22</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>0</vip>
+ </Element>
+ 
+ <Element>
+  <tag>CA</tag>
+  <country>Canada</country>
+  <city>Montreal</city>
+  <image>flags/Canada.png</image>
+  <strength>97</strength> 
+  <ip>198.50.163.127</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
