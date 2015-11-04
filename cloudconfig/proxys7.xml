@@ -568,6 +568,21 @@
  <Element>
   <tag>US</tag>
   <country>United States</country>
+  <city>Auburn Hills(MI)</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>159.203.137.212</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+   <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+ <Element>
+  <tag>US</tag>
+  <country>United States</country>
   <city>San Francisco</city>
   <image>flags/United States.png</image>
   <strength>98</strength>
