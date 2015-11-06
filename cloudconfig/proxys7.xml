@@ -704,6 +704,21 @@
   <city>Chicago</city>
   <image>flags/United States.png</image>
   <strength>98</strength>
+  <ip>108.61.215.91</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+ <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Chicago</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
   <ip>191.101.1.241</ip>
   <port>8115</port>
   <user>1</user>
