@@ -324,6 +324,21 @@
  </Element> 
  
  <Element>
+  <tag>HK</tag>
+  <country>Hong Kong</country>
+  <city>Kowloon</city>
+  <image>flags/Hong_Kong.png</image>
+  <strength>97</strength> 
+  <ip>153.92.46.92</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>1</vip>
+  <hide>0</hide>
+ </Element>
+ 
+ <Element>
   <tag>Ltu</tag>
   <country>Lithuania</country>
   <city>Voruta</city>
