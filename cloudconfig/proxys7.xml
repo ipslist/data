@@ -384,6 +384,21 @@
  </Element>
  
  <Element>
+  <tag>LR</tag>
+  <country>Latvia</country>
+  <city>Riga</city>
+  <image>flags/Latvia.png</image>
+  <strength>97</strength> 
+  <ip>185.8.60.69</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>0</vip>
+  <hide>0</hide>
+ </Element>
+ 
+ <Element>
   <tag>Ltu</tag>
   <country>Lithuania</country>
   <city>Voruta</city>
