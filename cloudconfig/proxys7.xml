@@ -595,6 +595,21 @@
  </Element>
  
  <Element>
+  <tag>TR</tag>
+  <country>Turkey</country>
+  <city>İstanbul </city>
+  <image>flags/Turkey.png</image>
+  <strength>94</strength> 
+  <ip>46.45.182.136</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>0</vip>  
+ </Element> 
+ 
+ <Element>
   <tag>UA</tag>
   <country>Ukraine</country>
   <city>Kiev</city>
