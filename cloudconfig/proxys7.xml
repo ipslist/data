@@ -519,6 +519,21 @@
   <vip>0</vip>  
  </Element> 
  
+ <Element>
+  <tag>RO</tag>
+  <country>Romania</country>
+  <city>Bucuresti</city>
+  <image>flags/Romania.png</image>
+  <strength>94</strength> 
+  <ip>185.117.73.222</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>0</vip>  
+ </Element>
+ 
    <Element>
   <tag>SE</tag>
   <country>Sweden</country>
