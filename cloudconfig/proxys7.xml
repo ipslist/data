@@ -794,7 +794,7 @@
   <city>Seattle</city>
   <image>flags/United States.png</image>
   <strength>98</strength>
-  <ip>172.110.29.154</ip>
+  <ip>172.110.29.181</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -802,6 +802,66 @@
   <hide>0</hide>
   <vip>0</vip>
  </Element>  
+ 
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Seattle</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>172.110.31.172</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Seattle</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>172.110.29.154</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Seattle</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>172.110.29.155</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Seattle</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>172.110.29.153</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
  
  <Element>
   <tag>US</tag>
