@@ -69,8 +69,8 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <vip>0</vip>
-  <hide>1</hide>
+  <vip>1</vip>
+  <hide>0</hide>
  </Element>
  
   <Element>
@@ -84,7 +84,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <vip>0</vip>
+  <vip>1</vip>
  </Element>  
  
   <Element>
@@ -93,12 +93,12 @@
   <city>Beauharnois</city>
   <image>flags/Canada.png</image>
   <strength>96</strength> 
-  <ip>167.114.36.240</ip>
+  <ip>198.50.174.240</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
+  <hide>0</hide>
   <vip>1</vip>
  </Element>
  
