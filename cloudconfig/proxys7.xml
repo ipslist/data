@@ -117,6 +117,21 @@
   <vip>1</vip>
  </Element>
  
+    <Element>
+  <tag>CA</tag>
+  <country>Canada</country>
+  <city>Beauharnois</city>
+  <image>flags/Canada.png</image>
+  <strength>96</strength> 
+  <ip>192.95.59.175</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
   <Element>
   <tag>CH</tag>
   <country>Switzerland</country>
