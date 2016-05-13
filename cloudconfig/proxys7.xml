@@ -238,6 +238,21 @@
   <vip>0</vip>
  </Element> 
  
+ <Element>
+  <tag>FI</tag>
+  <country>Finland</country>
+  <city>Zurich</city>
+  <image>flags/Finland.png</image>
+  <strength>98</strength> 
+  <ip>81.22.255.148</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element>
+ 
    <Element>
   <tag>IT</tag>
   <country>Italy</country>
