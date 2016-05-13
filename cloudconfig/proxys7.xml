@@ -250,8 +250,8 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>1</vip>
- </Element>
+  <vip>0</vip>
+ </Element> 
  
    <Element>
   <tag>IT</tag>
