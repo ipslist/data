@@ -793,20 +793,6 @@
   <vip>0</vip>
  </Element>
  
- <Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>New York</city>
-  <image>flags/United States.png</image>
-  <strength>95</strength>
-  <ip>45.55.218.249</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>1</vip>
- </Element>
  
  <Element>
   <tag>US</tag>
@@ -828,16 +814,16 @@
  <Element>
   <tag>US</tag>
   <country>United States</country>
-  <city>Atlanta</city>
+  <city>Seattle</city>
   <image>flags/United States.png</image>
   <strength>98</strength>
-  <ip>23.92.30.211</ip>
+  <ip>172.110.29.181</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>1</vip>
+  <hide>0</hide>
+  <vip>0</vip>
  </Element> 
  
  <Element>
