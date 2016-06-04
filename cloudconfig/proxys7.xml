@@ -737,12 +737,12 @@
   <city>London</city>
   <image>flags/United Kingdom.png</image>
   <strength>97</strength> 
-  <ip>178.62.71.165</ip>
+  <ip>104.238.184.98</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
+  <hide>0</hide>
   <vip>0</vip> 
  </Element>
  
