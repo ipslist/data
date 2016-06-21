@@ -15,20 +15,20 @@
   <vip>0</vip>
   </Element>
   
- <Element>
-  <tag>AU</tag>
-  <country>Australia</country>
-  <city>Sydney</city>
-  <image>flags/Australia.png</image>
-  <strength>96</strength> 
-  <ip>176.126.69.19</ip>
+<Element>
+  <tag>ALB</tag>
+  <country>Albania</country>
+  <city>Tirana</city>
+  <image>flags/Albania.png</image>
+  <strength>94</strength> 
+  <ip>178.33.191.118</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
-  <hide>1</hide>
-  <vip>0</vip>
-  </Element>
+  <hide>0</hide>
+  <vip>0</vip>  
+ </Element> 
   
  <Element>
   <tag>BR</tag>
