@@ -392,13 +392,13 @@
   <city>Kowloon</city>
   <image>flags/Hong_Kong.png</image>
   <strength>97</strength> 
-  <ip>153.92.45.191</ip>
+  <ip>176.126.71.39</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <vip>1</vip>
-  <hide>1</hide>
+  <vip>0</vip>
+  <hide>0</hide>
  </Element>
  
  <Element>
