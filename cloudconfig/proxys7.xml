@@ -298,6 +298,21 @@
   <vip>0</vip>  
  </Element>
  
+ <Element>
+  <tag>IN</tag>
+  <country>India</country>
+  <city>Bangalore</city>
+  <image>flags/India.png</image>
+  <strength>94</strength> 
+  <ip>139.59.23.11</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>0</vip>  
+ </Element>
+ 
   <Element>
   <tag>IT</tag>
   <country>Italy</country>
@@ -817,7 +832,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>0</vip> 
  </Element>
  
