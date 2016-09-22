@@ -806,6 +806,21 @@
   <vip>0</vip> 
  </Element>
  
+ <Element>
+  <tag>UK</tag>
+  <country>United Kingdom</country>
+  <city>Birmingham</city>
+  <image>flags/United Kingdom.png</image>
+  <strength>98</strength> 
+  <ip>178.62.71.165</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip> 
+ </Element>
+ 
     <Element>
   <tag>UK</tag>
   <country>United Kingdom</country>
