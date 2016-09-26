@@ -1,6 +1,51 @@
 <Array>
 
 <Element>
+  <tag>AU</tag>
+  <country>Australia</country>
+  <city>Sydney</city>
+  <image>flags/Australia.png</image>
+  <strength>96</strength> 
+  <ip>153.92.44.218</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>0</vip>
+  </Element>
+
+<Element>
+  <tag>AU</tag>
+  <country>Australia</country>
+  <city>Sydney</city>
+  <image>flags/Australia.png</image>
+  <strength>96</strength> 
+  <ip>45.32.189.13</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>0</vip>
+  </Element>
+  
+  <Element>
+  <tag>AU</tag>
+  <country>Australia</country>
+  <city>Sydney</city>
+  <image>flags/Australia.png</image>
+  <strength>96</strength> 
+  <ip>45.63.24.44</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>1</vip>
+  </Element>
+
+<Element>
   <tag>ALB</tag>
   <country>Albania</country>
   <city>Tirana</city>
@@ -44,52 +89,6 @@
   <hide>0</hide>
   <vip>1</vip>  
  </Element>
- 
- <Element>
-  <tag>AU</tag>
-  <country>Australia</country>
-  <city>Sydney</city>
-  <image>flags/Australia.png</image>
-  <strength>96</strength> 
-  <ip>45.32.189.13</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>0</hide>
-  <vip>0</vip>
-  </Element>
-  
-  <Element>
-  <tag>AU</tag>
-  <country>Australia</country>
-  <city>Sydney</city>
-  <image>flags/Australia.png</image>
-  <strength>96</strength> 
-  <ip>153.92.44.218</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>0</hide>
-  <vip>0</vip>
-  </Element>
-  
-  <Element>
-  <tag>AU</tag>
-  <country>Australia</country>
-  <city>Sydney</city>
-  <image>flags/Australia.png</image>
-  <strength>96</strength> 
-  <ip>45.63.24.44</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>0</hide>
-  <vip>1</vip>
-  </Element>
-   
   
  <Element>
   <tag>BR</tag>
