@@ -904,12 +904,12 @@
   <city>San Francisco</city>
   <image>flags/United States.png</image>
   <strength>98</strength>
-  <ip>104.236.185.82</ip>
+  <ip>159.203.228.205</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-   <hide>1</hide>
+   <hide>0</hide>
   <vip>0</vip>
  </Element>
  
