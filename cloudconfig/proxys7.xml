@@ -792,6 +792,21 @@
  </Element>
  
  <Element>
+  <tag>SLO</tag>
+  <country>Slovenia</country>
+  <city>Velenje</city>
+  <image>flags/Slovenia.png</image>
+  <strength>95</strength>
+  <ip>192.71.244.20</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+ <Element>
   <tag>TR</tag>
   <country>Turkey</country>
   <city>İstanbul </city>
