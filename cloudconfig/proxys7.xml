@@ -313,20 +313,6 @@
   <vip>0</vip>
  </Element>  
   
-  <Element>
-  <tag>IT</tag>
-  <country>Italy</country>
-  <city>Milan</city>
-  <image>flags/Italy.png</image>
-  <strength>95</strength>
-  <ip>198.105.119.134</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>0</vip>
- </Element>
   
   <Element>
   <tag>IT</tag>
@@ -343,20 +329,6 @@
   <vip>1</vip>
  </Element>
   
-  <Element>
-  <tag>IT</tag>
-  <country>Italy</country>
-  <city>Milan</city>
-  <image>flags/Italy.png</image>
-  <strength>95</strength>
-  <ip>198.105.119.135</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>1</vip>
- </Element>
   
   <Element>
   <tag>IS</tag>
