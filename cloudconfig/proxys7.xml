@@ -66,20 +66,6 @@
   <city>Montreal</city>
   <image>flags/Canada.png</image>
   <strength>97</strength> 
-  <ip>142.4.201.171</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <vip>0</vip>
- </Element>
- 
- <Element>
-  <tag>CA</tag>
-  <country>Canada</country>
-  <city>Montreal</city>
-  <image>flags/Canada.png</image>
-  <strength>97</strength> 
   <ip>158.69.137.22</ip>
   <port>8115</port>
   <user>1</user>
