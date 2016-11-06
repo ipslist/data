@@ -102,6 +102,21 @@
   <hide>0</hide>
   <vip>0</vip>
  </Element>  
+ 
+ <Element>
+  <tag>CH</tag>
+  <country>Switzerland</country>
+  <city>Zurich</city>
+  <image>flags/Switzerland.png</image>
+  <strength>98</strength> 
+  <ip>178.209.50.155</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element>
   
   <Element>
   <tag>CH</tag>
@@ -581,6 +596,21 @@
   <image>flags/United States.png</image>
   <strength>98</strength>
   <ip>45.63.86.234</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element>
+ 
+ <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Chicago</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>45.76.19.122</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
