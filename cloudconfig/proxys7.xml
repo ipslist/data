@@ -509,7 +509,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>1</hide>
-  <vip>0</vip> 
+  <vip>1</vip> 
  </Element>
  
     <Element>
