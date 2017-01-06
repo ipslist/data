@@ -247,21 +247,6 @@
   <city>Tokyo</city>
   <image>flags/Japan.png</image>
   <strength>99</strength>
-  <ip>106.185.46.30</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <vip>1</vip> 
-  <protocol>private</protocol> 
-  <hide>1</hide>
- </Element>  
- 
-  <Element>
-  <tag>JP</tag>
-  <country>Japan</country>
-  <city>Tokyo</city>
-  <image>flags/Japan.png</image>
-  <strength>99</strength>
   <ip>107.191.52.34</ip>
   <port>8115</port>
   <user>1</user>
@@ -270,6 +255,21 @@
   <hide>0</hide>
   <vip>1</vip>  
  </Element> 
+ 
+   <Element>
+  <tag>JP</tag>
+  <country>Japan</country>
+  <city>Tokyo</city>
+  <image>flags/Japan.png</image>
+  <strength>99</strength>
+  <ip>45.76.98.68</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <vip>0</vip> 
+  <protocol>private</protocol> 
+  <hide>0</hide>
+ </Element>  
  
  <Element>
   <tag>HK</tag>
