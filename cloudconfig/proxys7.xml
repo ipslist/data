@@ -15,21 +15,6 @@
   <vip>1</vip>
  </Element>
  
-<Element>
-  <tag>ALB</tag>
-  <country>Albania</country>
-  <city>Tirana</city>
-  <image>flags/Albania.png</image>
-  <strength>94</strength> 
-  <ip>5.196.125.62</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>0</hide>
-  <vip>1</vip>  
- </Element>
-  
  <Element>
   <tag>BR</tag>
   <country>Brazil</country>
