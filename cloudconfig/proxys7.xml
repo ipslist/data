@@ -40,7 +40,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <vip>1</vip>
+  <vip>0</vip>
  </Element>
 
   
@@ -342,7 +342,7 @@
   <pass>1</pass>
   <protocol>private</protocol>
   <hide>0</hide>
-  <vip>0</vip>  
+  <vip>1</vip>  
  </Element>
  
    <Element>
