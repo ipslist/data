@@ -30,7 +30,6 @@
   <vip>1</vip>
  </Element>
  
- <Array>
   <Element>
   <tag>BE</tag>
   <country>Belgium</country>
@@ -46,9 +45,6 @@
   <hide>0</hide>
  </Element>  
 
-</Array>
-
- 
   <Element>
   <tag>CA</tag>
   <country>Canada</country>
