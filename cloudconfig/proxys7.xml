@@ -30,6 +30,25 @@
   <vip>1</vip>
  </Element>
  
+ <Array>
+  <Element>
+  <tag>BE</tag>
+  <country>Belgium</country>
+  <city>Brussels</city>
+  <image>flags/Belgium.png</image>
+  <strength>99</strength>
+  <ip>192.71.249.156</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <vip>1</vip> 
+  <protocol>private</protocol> 
+  <hide>0</hide>
+ </Element>  
+
+</Array>
+
+ 
   <Element>
   <tag>CA</tag>
   <country>Canada</country>
