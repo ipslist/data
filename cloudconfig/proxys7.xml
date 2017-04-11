@@ -15,6 +15,21 @@
   <vip>0</vip>
  </Element>
  
+  <Element>
+  <tag>AU</tag>
+  <country>Australia</country>
+  <city>Sydney</city>
+  <image>flags/Australia.png</image>
+  <strength>95</strength>
+  <ip>103.73.64.100</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element>
+ 
  <Element>
   <tag>AU</tag>
   <country>Australia</country>
