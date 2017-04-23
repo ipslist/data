@@ -58,22 +58,7 @@
   <vip>0</vip> 
   <protocol>private</protocol> 
   <hide>0</hide>
- </Element>  
-
-    <Element>
-  <tag>BLR</tag>
-  <country>Spain</country>
-  <city>Madrid</city>
-  <image>flags/Spain.png</image>
-  <strength>99</strength>
-  <ip>37.235.53.97</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <vip>1</vip> 
-  <protocol>private</protocol> 
-  <hide>0</hide>
- </Element>  
+ </Element>   
  
   <Element>
   <tag>CA</tag>
@@ -192,6 +177,21 @@
   <hide>0</hide>
   <vip>1</vip>
  </Element>  
+ 
+ <Element>
+  <tag>ES</tag>
+  <country>Spain</country>
+  <city>Madrid</city>
+  <image>flags/Spain.png</image>
+  <strength>99</strength>
+  <ip>37.235.53.97</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <vip>1</vip> 
+  <protocol>private</protocol> 
+  <hide>0</hide>
+ </Element> 
  
  <Element>
   <tag>FR</tag>
