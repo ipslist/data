@@ -194,6 +194,21 @@
  </Element> 
  
  <Element>
+  <tag>HUN</tag>
+  <country>Hungary</country>
+  <city>Budapest</city>
+  <image>flags/Hungary.png</image>
+  <strength>96</strength> 
+  <ip>194.71.130.12</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>1</vip>  
+ </Element>
+ 
+ <Element>
   <tag>IN</tag>
   <country>India</country>
   <city>Bangalore</city>
