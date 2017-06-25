@@ -104,21 +104,6 @@
   <vip>1</vip>
  </Element>
   
-  <Element>
-  <tag>CH</tag>
-  <country>Switzerland</country>
-  <city>Zurich</city>
-  <image>flags/Switzerland.png</image>
-  <strength>98</strength> 
-  <ip>178.209.50.197</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>1</vip>
- </Element>
-  
    <Element>
   <tag>CL</tag>
   <country>Chile</country>
@@ -200,7 +185,7 @@
   <city>Bangalore</city>
   <image>flags/India.png</image>
   <strength>94</strength> 
-  <ip>139.59.23.11</ip>
+  <ip>139.59.18.85</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -419,22 +404,7 @@
   <hide>0</hide>
   <vip>0</vip>
  </Element>
- 
- <Element>
-  <tag>SA</tag>
-  <country>South Africa</country>
-  <city>Cape Town</city>
-  <image>flags/South_Africa.png</image>
-  <strength>95</strength>
-  <ip>154.127.61.235</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>1</vip>
- </Element>  
- 
+   
  <Element>
   <tag>SA</tag>
   <country>South Africa</country>
@@ -511,39 +481,6 @@
   <hide>0</hide>
   <vip>1</vip>
  </Element>
- 
- 
- <Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>New York</city>
-  <image>flags/United States.png</image>
-  <strength>95</strength>
-  <ip>162.243.230.175</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>0</vip>
- </Element>
- 
- 
- <Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>Amsterdam</city>
-  <image>flags/United States.png</image>
-  <strength>95</strength>
-  <ip>128.199.54.226</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>0</vip>
- </Element>
- 
  
  <Element>
   <tag>US</tag>
