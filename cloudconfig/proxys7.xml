@@ -498,6 +498,20 @@
   <vip>1</vip>
  </Element>
  
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>New York</city>
+  <image>flags/United States.png</image>
+  <strength>95</strength>
+  <ip>174.138.38.27</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element>
  
  <Element>
   <tag>US</tag>
@@ -513,6 +527,5 @@
   <hide>0</hide>
   <vip>0</vip>
  </Element>
- 
  
 </Array>
