@@ -42,7 +42,7 @@
   <pass>1</pass>
   <vip>1</vip> 
   <protocol>private</protocol> 
-  <hide>0</hide>
+  <hide>1</hide>
  </Element>   
  
  <Element>
