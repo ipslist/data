@@ -13,37 +13,7 @@
   <protocol>private</protocol> 
   <hide>0</hide>
   <vip>1</vip>
- </Element>
- 
- <Element>
-  <tag>AU</tag>
-  <country>Australia</country>
-  <city>Sydney</city>
-  <image>flags/Australia.png</image>
-  <strength>95</strength>
-  <ip>103.73.64.147</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>0</vip>
- </Element>
- 
-  <Element>
-  <tag>BE</tag>
-  <country>Belgium</country>
-  <city>Brussels</city>
-  <image>flags/Belgium.png</image>
-  <strength>99</strength>
-  <ip>192.71.249.252</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <vip>1</vip> 
-  <protocol>private</protocol> 
-  <hide>1</hide>
- </Element>   
+ </Element>  
  
  <Element>
   <tag>CA</tag>
