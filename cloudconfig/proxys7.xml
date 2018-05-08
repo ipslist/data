@@ -300,6 +300,21 @@
   <hide>0</hide>
   <vip>0</vip>
  </Element>
+ 
+ <Element>
+  <tag>SG</tag>
+  <country>Singapore</country>
+  <city>Singapore</city>
+  <image>flags/Singapore.png</image>
+  <strength>97</strength> 
+  <ip>1159.65.11.56</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element>
    
  <Element>
   <tag>SA</tag>
