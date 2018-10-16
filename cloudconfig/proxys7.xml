@@ -12,6 +12,51 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
+  <vip>0</vip>
+ </Element>  
+ 
+ <Element>
+  <tag>AU</tag>
+  <country>Australia</country>
+  <city>Sydney</city>
+  <image>flags/Australia.png</image>
+  <strength>95</strength>
+  <ip>149.28.180.217</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>  
+ 
+ <Element>
+  <tag>AU</tag>
+  <country>Australia</country>
+  <city>Sydney</city>
+  <image>flags/Australia.png</image>
+  <strength>95</strength>
+  <ip>149.28.168.167</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element>  
+ 
+ <Element>
+  <tag>AU</tag>
+  <country>Australia</country>
+  <city>Sydney</city>
+  <image>flags/Australia.png</image>
+  <strength>95</strength>
+  <ip>207.148.87.92</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
   <vip>1</vip>
  </Element>  
  
