@@ -112,36 +112,6 @@
   <city>Frankfurt</city>
   <image>flags/Germany.png</image>
   <strength>95</strength>
-  <ip>199.247.22.137</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>1</vip>
- </Element>
-
-<Element>
-  <tag>DE</tag>
-  <country>Germany</country>
-  <city>Frankfurt</city>
-  <image>flags/Germany.png</image>
-  <strength>95</strength>
-  <ip>217.163.28.163</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>1</vip>
- </Element>
-
-<Element>
-  <tag>DE</tag>
-  <country>Germany</country>
-  <city>Frankfurt</city>
-  <image>flags/Germany.png</image>
-  <strength>95</strength>
   <ip>138.197.191.229</ip>
   <port>8115</port>
   <user>1</user>
