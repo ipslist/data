@@ -12,7 +12,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>0</vip>
+  <vip>1</vip>
  </Element>  
  
  <Element>
@@ -435,54 +435,9 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>0</vip> 
- </Element>
- 
- <Element>
-  <tag>UK</tag>
-  <country>United Kingdom</country>
-  <city>London</city>
-  <image>flags/United Kingdom.png</image>
-  <strength>97</strength> 
-  <ip>45.32.176.18</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>0</vip> 
- </Element>
- 
- <Element>
-  <tag>UK</tag>
-  <country>United Kingdom</country>
-  <city>London</city>
-  <image>flags/United Kingdom.png</image>
-  <strength>97</strength> 
-  <ip>95.179.198.183</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
   <vip>1</vip> 
  </Element>
- 
- <Element>
-  <tag>UK</tag>
-  <country>United Kingdom</country>
-  <city>London</city>
-  <image>flags/United Kingdom.png</image>
-  <strength>97</strength> 
-  <ip>108.61.175.240</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>1</vip> 
- </Element>
- 
+
  <Element>
   <tag>US</tag>
   <country>United States</country>
@@ -554,7 +509,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>1</vip>
+  <vip>0</vip>
  </Element>
  
  
