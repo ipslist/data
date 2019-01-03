@@ -36,13 +36,13 @@
   <city>Montreal</city>
   <image>flags/Canada.png</image>
   <strength>97</strength> 
-  <ip>142.44.219.139</ip>
+  <ip>144.217.0.198</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
   <vip>0</vip>
-  <hide>1</hide>
+  <hide>0</hide>
  </Element>
 
   
