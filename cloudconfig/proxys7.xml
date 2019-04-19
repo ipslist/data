@@ -228,21 +228,6 @@
   <vip>1</vip>  
  </Element>
  
- <Element>
-  <tag>RO</tag>
-  <country>Romania</country>
-  <city>Bucuresti</city>
-  <image>flags/Romania.png</image>
-  <strength>94</strength> 
-  <ip>89.35.39.105</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>0</hide>
-  <vip>1</vip>  
- </Element>
- 
   <Element>
   <tag>SG</tag>
   <country>Singapore</country>
