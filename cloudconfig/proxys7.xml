@@ -21,7 +21,7 @@
   <city>Montreal</city>
   <image>flags/Canada.png</image>
   <strength>97</strength> 
-  <ip>144.217.0.198</ip>
+  <ip>149.248.61.123</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -210,22 +210,6 @@
   <hide>0</hide>
   <vip>1</vip>  
  </Element> 
- 
- 
- <Element>
-  <tag>Ltu</tag>
-  <country>Lithuania</country>
-  <city>Voruta</city>
-  <image>flags/Lithuania.png</image>
-  <strength>95</strength>
-  <ip>213.252.244.38</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>1</vip>
- </Element>
   
  <Element>
   <tag>MU</tag>
