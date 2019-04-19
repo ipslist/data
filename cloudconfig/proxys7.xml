@@ -27,7 +27,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <vip>0</vip>
-  <hide>1</hide>
+  <hide>0</hide>
  </Element>
 
   
@@ -107,21 +107,6 @@
  </Element> 
  
  <Element>
-  <tag>ES</tag>
-  <country>Spain</country>
-  <city>Madrid</city>
-  <image>flags/Spain.png</image>
-  <strength>99</strength>
-  <ip>37.235.53.97</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <vip>1</vip> 
-  <protocol>private</protocol> 
-  <hide>1</hide>
- </Element> 
- 
- <Element>
   <tag>FR</tag>
   <country>France</country>
   <city>Saint-denis</city>
@@ -166,20 +151,6 @@
   <vip>1</vip>  
  </Element>
  
-  <Element>
-  <tag>IT</tag>
-  <country>Italy</country>
-  <city>Milan</city>
-  <image>flags/Italy.png</image>
-  <strength>95</strength>
-  <ip>158.58.170.7</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>0</vip>
- </Element>  
   
   <Element>
   <tag>IS</tag>
@@ -210,38 +181,8 @@
   <hide>0</hide>
   <vip>1</vip>  
  </Element> 
-  
- <Element>
-  <tag>MU</tag>
-  <country>Mauritius</country>
-  <city>Mauritius</city>
-  <image>flags/Mauritius.png</image>
-  <strength>97</strength> 
-  <ip>154.127.60.251</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <vip>0</vip>
-  <hide>1</hide>
- </Element>
  
 
- <Element>
-  <tag>NL</tag>
-  <country>Netherlands</country>
-  <city>Amsterdam</city>
-  <image>flags/Netherlands.png</image>
-  <strength>97</strength>
-  <ip>176.126.85.13</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>0</vip>  
- </Element>
- 
  <Element>
   <tag>NL</tag>
   <country>Netherlands</country>
@@ -286,21 +227,6 @@
   <hide>0</hide>
   <vip>1</vip>  
  </Element>
-
- <Element>
-  <tag>RU</tag>
-  <country>Russia</country>
-  <city>Moscow</city>
-  <image>flags/Russian_Federation.png</image>
-  <strength>97</strength> 
-  <ip>185.22.173.194</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>1</hide>
-  <vip>1</vip>
- </Element> 
  
  <Element>
   <tag>RO</tag>
@@ -317,21 +243,6 @@
   <vip>1</vip>  
  </Element>
  
-   <Element>
-  <tag>SE</tag>
-  <country>Sweden</country>
-  <city>Stockholm</city>
-  <image>flags/Sweden.png</image>
-  <strength>94</strength> 
-  <ip>178.73.210.162</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>1</hide>
-  <vip>1</vip>
-  </Element> 
-
   <Element>
   <tag>SG</tag>
   <country>Singapore</country>
@@ -347,6 +258,21 @@
   <vip>0</vip>
  </Element>
  
+  <Element>
+  <tag>SG</tag>
+  <country>Singapore</country>
+  <city>Singapore</city>
+  <image>flags/Singapore.png</image>
+  <strength>97</strength> 
+  <ip>45.77.240.64</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element>
+ 
  <Element>
   <tag>SG</tag>
   <country>Singapore</country>
@@ -359,21 +285,6 @@
   <pass>1</pass>
   <protocol>private</protocol>
   <hide>0</hide>
-  <vip>1</vip>
- </Element>
-   
- <Element>
-  <tag>SA</tag>
-  <country>South Africa</country>
-  <city>Pretoria</city>
-  <image>flags/South_Africa.png</image>
-  <strength>95</strength>
-  <ip>154.127.60.251</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
   <vip>1</vip>
  </Element>
  
@@ -405,21 +316,6 @@
   <protocol>private</protocol> 
   <hide>0</hide>
   <vip>1</vip> 
- </Element>
-
- <Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>Los Angeles</city>
-  <image>flags/United States.png</image>
-  <strength>95</strength>
-  <ip>104.200.131.11</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>1</vip>
  </Element>
  
   <Element>
@@ -466,6 +362,7 @@
   <hide>0</hide>
   <vip>1</vip>
  </Element>
+ 
  <Element>
   <tag>US</tag>
   <country>United States</country>
