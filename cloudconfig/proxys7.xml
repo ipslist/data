@@ -189,28 +189,13 @@
   <city>Singapore</city>
   <image>flags/Singapore.png</image>
   <strength>97</strength> 
-  <ip>188.166.224.207</ip>
+  <ip>45.67.54.240</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
   <hide>0</hide>
   <vip>0</vip>
- </Element>
- 
-  <Element>
-  <tag>SG</tag>
-  <country>Singapore</country>
-  <city>Singapore</city>
-  <image>flags/Singapore.png</image>
-  <strength>97</strength> 
-  <ip>45.77.240.64</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>0</hide>
-  <vip>1</vip>
  </Element>
  
  <Element>
@@ -224,7 +209,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>1</vip>
  </Element>
  
