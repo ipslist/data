@@ -67,28 +67,13 @@
   <city>Frankfurt</city>
   <image>flags/Germany.png</image>
   <strength>95</strength>
-  <ip>138.197.191.229</ip>
+  <ip>45.82.167.110</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
   <vip>0</vip>
- </Element>
-
-<Element>
-  <tag>DE</tag>
-  <country>Germany</country>
-  <city>Frankfurt</city>
-  <image>flags/Germany.png</image>
-  <strength>95</strength>
-  <ip>199.247.20.246</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>1</vip>
  </Element>
  
  <Element>
@@ -196,21 +181,6 @@
   <protocol>private</protocol>
   <hide>0</hide>
   <vip>0</vip>
- </Element>
- 
- <Element>
-  <tag>SG</tag>
-  <country>Singapore</country>
-  <city>Singapore</city>
-  <image>flags/Singapore.png</image>
-  <strength>97</strength> 
-  <ip>159.65.11.56</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>1</hide>
-  <vip>1</vip>
  </Element>
  
  <Element>
