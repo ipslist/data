@@ -143,7 +143,7 @@
   <city>New York</city>
   <image>flags/United States.png</image>
   <strength>95</strength>
-  <ip>174.138.38.27</ip>
+  <ip>185.133.193.252</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -151,51 +151,5 @@
   <hide>0</hide>
   <vip>1</vip>
  </Element>
- 
-   <Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>New York</city>
-  <image>flags/United States.png</image>
-  <strength>95</strength>
-  <ip>45.55.182.65</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>1</vip>
- </Element>
- 
- <Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>New York</city>
-  <image>flags/United States.png</image>
-  <strength>95</strength>
-  <ip>206.189.177.16</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>1</vip>
- </Element>
- 
- <Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>New York</city>
-  <image>flags/United States.png</image>
-  <strength>95</strength>
-  <ip>167.99.146.11</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>0</vip>
- </Element>
- 
  
 </Array>
