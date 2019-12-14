@@ -6,7 +6,7 @@
   <city>Sydney</city>
   <image>flags/Australia.png</image>
   <strength>95</strength>
-  <ip>149.28.180.217</ip>
+  <ip>139.99.187.154</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -67,12 +67,12 @@
   <city>Saint-denis</city>
   <image>flags/France.png</image>
   <strength>96</strength> 
-  <ip>51.255.223.139</ip>
+  <ip>51.83.29.199</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
-  <hide>1</hide>
+  <hide>0</hide>
   <vip>1</vip>
  </Element>
  
@@ -158,7 +158,7 @@
   <city>New York</city>
   <image>flags/United States.png</image>
   <strength>95</strength>
-  <ip>45.89.197.104</ip>
+  <ip>103.124.107.130</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
