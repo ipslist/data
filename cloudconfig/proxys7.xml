@@ -61,6 +61,21 @@
   <vip>0</vip>
  </Element>
  
+   <Element>
+  <tag>ES</tag>
+  <country>Spain</country>
+  <city>Madrid</city>
+  <image>flags/Spain.png</image>
+  <strength>97</strength> 
+  <ip>5.183.103.188</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
  <Element>
   <tag>FR</tag>
   <country>France</country>
@@ -137,6 +152,7 @@
   <vip>0</vip>
  </Element>
  
+
  <Element>
   <tag>UK</tag>
   <country>United Kingdom</country>
