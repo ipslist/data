@@ -97,12 +97,12 @@
   <city>Saint-denis</city>
   <image>flags/France.png</image>
   <strength>96</strength> 
-  <ip>51.83.29.199</ip>
+  <ip>45.77.61.187</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
-  <hide>1</hide>
+  <hide>0</hide>
   <vip>1</vip>
  </Element>
  
