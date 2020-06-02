@@ -6,7 +6,7 @@
   <city>Sydney</city>
   <image>flags/Australia.png</image>
   <strength>95</strength>
-  <ip>185.167.116.56</ip>
+  <ip>149.28.173.252</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -14,21 +14,6 @@
   <hide>0</hide>
   <vip>1</vip>
  </Element>
-
- <Element>
-  <tag>AU</tag>
-  <country>Australia</country>
-  <city>Sydney</city>
-  <image>flags/Australia.png</image>
-  <strength>95</strength>
-  <ip>185.167.116.57</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>1</vip>
- </Element>   
  
   <Element>
   <tag>CA</tag>
@@ -67,7 +52,7 @@
   <city>Frankfurt</city>
   <image>flags/Germany.png</image>
   <strength>95</strength>
-  <ip>45.128.153.101</ip>
+  <ip>104.238.177.70</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
