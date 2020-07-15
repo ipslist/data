@@ -67,7 +67,22 @@
   <city>Frankfurt</city>
   <image>flags/Germany.png</image>
   <strength>95</strength>
-  <ip>104.238.177.70</ip>
+  <ip>5.183.179.212</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element>
+ 
+  <Element>
+  <tag>DE</tag>
+  <country>Germany</country>
+  <city>Frankfurt</city>
+  <image>flags/Germany.png</image>
+  <strength>95</strength>
+  <ip>5.183.179.96</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
