@@ -52,12 +52,12 @@
   <city>Zurich</city>
   <image>flags/Switzerland.png</image>
   <strength>98</strength> 
-  <ip>45.12.206.254</ip>
+  <ip>45.12.206.79</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
+  <hide>0</hide>
   <vip>1</vip>
  </Element>  
 
