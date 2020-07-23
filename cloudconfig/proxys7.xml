@@ -42,7 +42,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <vip>0</vip>
-  <hide>0</hide>
+  <hide>1</hide>
  </Element>
 
   
@@ -117,7 +117,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>1</vip>
  </Element>
  
@@ -127,7 +127,7 @@
   <city>Tokyo</city>
   <image>flags/Japan.png</image>
   <strength>99</strength>
-  <ip>45.77.183.13</ip>
+  <ip>45.66.134.222</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
