@@ -27,7 +27,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>1</vip>
+  <vip>0</vip>
  </Element>
  
   <Element>
@@ -150,21 +150,6 @@
   <protocol>private</protocol> 
   <hide>0</hide>
   <vip>1</vip>  
- </Element>
- 
- <Element>
-  <tag>NOR</tag>
-  <country>Norway</country>
-  <city>Oslo</city>
-  <image>flags/Norway.png</image>
-  <strength>97</strength>
-  <ip>5.183.100.172</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>0</vip>  
  </Element>
  
  <Element>
