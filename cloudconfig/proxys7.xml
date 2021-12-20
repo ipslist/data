@@ -81,12 +81,12 @@
   <city>Frankfurt</city>
   <image>flags/Germany.png</image>
   <strength>95</strength>
-  <ip>5.183.179.212</ip>
+  <ip>45.82.167.159</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
+  <hide>0</hide>
   <vip>1</vip>
  </Element>
  
