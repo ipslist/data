@@ -16,6 +16,21 @@
  </Element>
  
   <Element>
+  <tag>BUL</tag>
+  <country>Bulgaria</country>
+  <city>Sofia</city>
+  <image>flags/Bulgaria.png</image>
+  <strength>95</strength>
+  <ip>91.215.154.49</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element>
+ 
+  <Element>
   <tag>CA</tag>
   <country>Canada</country>
   <city>Montreal</city>
