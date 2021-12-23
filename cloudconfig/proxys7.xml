@@ -151,6 +151,20 @@
  </Element>
  
  <Element>
+  <tag>PL</tag>
+  <country>Poland</country>
+  <city>Poland</city>
+  <image>flags/Poland.png</image>
+  <strength>97</strength> 
+  <ip>217.197.160.158</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element>
+ <Element>
   <tag>SG</tag>
   <country>Singapore</country>
   <city>Singapore</city>
