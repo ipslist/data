@@ -60,6 +60,21 @@
   <vip>1</vip>
  </Element>  
 
+  <Element>
+  <tag>CZ</tag>
+  <country>Czech</country>
+  <city>Prague</city>
+  <image>flags/Czech.png</image>
+  <strength>98</strength> 
+  <ip>185.253.47.60</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element> 
+
  <Element>
   <tag>DE</tag>
   <country>Germany</country>
