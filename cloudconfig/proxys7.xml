@@ -196,6 +196,21 @@
  </Element>
 
  <Element>
+  <tag>UA</tag>
+  <country>Ukraine</country>
+  <city>Kyiv</city>
+  <image>flags/Ukraine.png</image>
+  <strength>97</strength> 
+  <ip>185.253.0.5</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip> 
+ </Element>
+
+ <Element>
   <tag>UK</tag>
   <country>United Kingdom</country>
   <city>London</city>
