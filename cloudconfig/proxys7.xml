@@ -6,28 +6,13 @@
   <city>Sydney</city>
   <image>flags/Australia.png</image>
   <strength>95</strength>
-  <ip>185.167.116.92</ip>
+  <ip>185.167.116.160</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
   <vip>0</vip>
- </Element>
- 
-  <Element>
-  <tag>AU</tag>
-  <country>Australia</country>
-  <city>Sydney</city>
-  <image>flags/Australia.png</image>
-  <strength>95</strength>
-  <ip>185.167.116.180</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>1</vip>
  </Element>
  
   <Element>
